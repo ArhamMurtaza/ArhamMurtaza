@@ -16,10 +16,6 @@ I am currently studing Bachelor of Science in Computer Science.<br>I am also lea
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArhamMurtaza&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMurtaza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ArhamMurtaza&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=ArhamMurtaza&limit=5&theme=dark&combine_all_yearly_contributions=true)
