@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-I am currently studing Bachelor of Science in Computer Science.<br>I am also learning web development on the side.<br>I have learnt Html, Css and bootstrap for now.<br>I am going to be learning javascript, react, node js etc in future.<br>I love solving problems and playing games.
+I am currently studing Bachelor of Science in Computer Science.<br>I am also learning web development.<br>I have learnt Html, Css, Bootstrap 5.<br>Currently learning JavaScript, MySQL and PHP.<br>I am going to be learning react, next js, node js etc in future.<br>I love solving problems and playing games.
 
 ## 🌐 Socials:
 
