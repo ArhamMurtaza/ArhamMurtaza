@@ -49,11 +49,11 @@ Outside of work, I like solving problems, optimizing flows, and occasionally gam
 ---
 
 ## 📊 GitHub Activity
-> Mostly personal experiments, tooling, and learning — real work lives elsewhere.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=ArhamMurtaza&theme=transparent&hide_border=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArhamMurtaza&theme=transparent&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMurtaza&layout=compact&theme=transparent&hide_border=true)
+Mostly personal experiments, tooling, and learning — real work lives elsewhere.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ArhamMurtaza&theme=dark&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMurtaza&layout=compact&theme=dark&hide_border=true)
 
 ---
 
