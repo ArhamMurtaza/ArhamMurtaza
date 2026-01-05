@@ -1,35 +1,68 @@
-# 💫 About Me:
+# 👋 Hey, I’m Arham (aka Mr Dark)
 
-I am currently studing Bachelor of Science in Computer Science.<br>I am also learning Full Stack Web Development.<br>I have learnt Html, Css, Bootstrap 5, JavaScript, MySQL, PHP and Laravel.<br>Currently learning react. Next js, node js etc in future.<br>I love solving problems and playing games.
+I’m a full-stack software developer who enjoys building things that are **fast, simple, and practical**.  
+I care more about **clarity, performance, and problem-solving** than buzzwords or overengineering.
 
-## 🌐 Socials:
+Most of my work lives in private repos, but it usually involves:
+- Full SaaS applications (frontend + backend)
+- Admin panels & internal dashboards
+- Chat systems & real-time features
+- Browser extensions
+- Automation & tooling that saves time
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/294426338553757697) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100063331077186) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/realmrdark/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arham-murtaza) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1MrE52YYN) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Muhammad-Arham-Murtaza) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/DarkGamer101) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@MrDark1)
-
-# 💻 Tech Stack:
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=ArhamMurtaza&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArhamMurtaza&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMurtaza&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=ArhamMurtaza&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Outside of work, I like solving problems, optimizing flows, and occasionally gaming 🎮
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ArhamMurtaza&icon=0&color=13)](https://visitcount.itsvg.in)
+## 🧠 Current Focus
+- Writing clean, maintainable code
+- Performance-first UI & APIs
+- Shipping features without unnecessary complexity
+
+---
+
+## 🛠️ Tech I Actually Use
+
+### Core
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss)
+
+### Backend / Data
+![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql)
+![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql)
+
+### Other
+![Vue](https://img.shields.io/badge/Vue-1f2937?style=for-the-badge&logo=vue.js)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+
+---
+
+## 💼 Experience
+- **Full-time onsite software developer** since April 21, 2025
+- Working on production systems used daily
+- Comfortable owning features end-to-end
+
+---
+
+## 📊 GitHub Activity
+> Mostly personal experiments, tooling, and learning — real work lives elsewhere.
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ArhamMurtaza&theme=transparent&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ArhamMurtaza&theme=transparent&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArhamMurtaza&layout=compact&theme=transparent&hide_border=true)
+
+---
+
+## 🌐 Around the Internet
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arham-murtaza)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/294426338553757697)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/realmrdark/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@MrDark1)
+
+---
+
+<sub>Building things, breaking them, fixing them — repeat.</sub>
