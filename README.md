@@ -1,66 +1,45 @@
-# 👋 Hey, I’m Arham (aka Mr Dark)
+```bash
+$ whoami
 
-I’m a full-stack software developer who enjoys building things that are **fast, simple, and practical**.  
-I care more about **clarity, performance, and problem-solving** than buzzwords or overengineering.
+Full-stack developer.
+Mostly solving problems, keeping things fast, and not overcomplicating what doesn’t need it.
 
-Most of my work lives in private repos, but it usually involves:
-- Full SaaS applications (frontend + backend)
-- Admin panels & internal dashboards
-- Chat systems & real-time features
-- Browser extensions
-- Automation & tooling that saves time
+$ cat about.txt
 
-Outside of work, I like solving problems, optimizing flows, and occasionally gaming 🎮
+I work on production systems full-time.
+Most of my day-to-day code lives in private repositories.
+I enjoy building things that are simple, performant, and easy to reason about.
 
----
+When something feels slow, messy, or over-engineered, I try to fix that first.
 
-## 🧠 Current Focus
-- Writing clean, maintainable code
-- Performance-first UI & APIs
-- Shipping features without unnecessary complexity
+$ cat principles.md
 
----
+- Simplicity beats cleverness
+- Performance matters early
+- Clear code > smart code
+- Ship, observe, refine
 
-## 🛠️ Tech I Actually Use
+$ cat work.log
 
-### Core
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwindcss)
+• Full SaaS applications (frontend & backend)
+• Admin panels & internal dashboards
+• Chat systems & real-time features
+• Browser extensions
+• Automation & internal tooling
 
-### Backend / Data
-![Python](https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql)
-![Laravel](https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel)
-![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql)
+$ cat now.md
 
-### Other
-![Vue](https://img.shields.io/badge/Vue-1f2937?style=for-the-badge&logo=vue.js)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+- Working full-time on production systems
+- Improving performance & developer experience
+- Learning selectively, not collecting tools
 
----
+$ ls tech/
 
-## 💼 Experience
-- **Full-time onsite software developer** since April 21, 2025
-- Working on production systems used daily
-- Comfortable owning features end-to-end
+nextjs   react   typescript   tailwind
+python   postgres   laravel   vue
 
----
+$ echo "Most real work is private. Public repos are for experiments, notes, and tooling."
 
-## 📊 GitHub Activity
+$ exit
 
-Mostly experiments, internal tools, and learning.
-The bulk of my production work lives in private repositories.
-
----
-
-## 🌐 Around the Internet
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arham-murtaza)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/294426338553757697)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/realmrdark/)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/@MrDark1)
-
----
-
-<sub>Building things, breaking them, fixing them — repeat.</sub>
+```
