@@ -42,5 +42,4 @@ react   tailwind   laravel   vue
 $ echo "Most real work is private. Public repos are for experiments, notes, and small tools."
 
 $ exit
-
 ```
