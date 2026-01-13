@@ -2,21 +2,19 @@
 $ whoami
 
 Full-stack developer.
-Mostly solving problems, keeping things fast, and not overcomplicating what doesn’t need it.
+Mostly solving problems, keeping things fast, and not overcomplicating what doesn’t need to be.
 
 $ cat about.txt
 
 I work on production systems full-time.
-Most of my day-to-day code lives in private repositories.
+Most of my code lives in private repositories.
 I enjoy building things that are simple, performant, and easy to reason about.
-
-When something feels slow, messy, or over-engineered, I try to fix that first.
 
 $ cat principles.md
 
 - Simplicity beats cleverness
 - Performance matters early
-- Clear code > smart code
+- Clear code > clever code
 - Ship, observe, refine
 
 $ cat work.log
@@ -33,12 +31,15 @@ $ cat now.md
 - Improving performance & developer experience
 - Learning selectively, not collecting tools
 
-$ ls tech/
+$ ls tech/core
 
-nextjs   react   typescript   tailwind
-python   postgres   laravel   vue
+nextjs   typescript   postgres   python
 
-$ echo "Most real work is private. Public repos are for experiments, notes, and tooling."
+$ ls tech/others
+
+react   tailwind   laravel   vue
+
+$ echo "Most real work is private. Public repos are for experiments, notes, and small tools."
 
 $ exit
 
