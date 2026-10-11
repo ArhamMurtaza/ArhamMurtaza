@@ -1,45 +1,17 @@
-```bash
-$ whoami
+# Arham Murtaza
 
-Full-stack developer.
-Mostly solving problems, keeping things fast, and not overcomplicating what doesn’t need to be.
+Full-stack software engineer based in Faisalabad, Pakistan, currently working at Zafrit.
 
-$ cat about.txt
+I build web and mobile products with TypeScript, Next.js, Python, and React Native. My work connects interfaces, APIs, data, and integrations into usable applications.
 
-I work on production systems full-time.
-Most of my code lives in private repositories.
-I enjoy building things that are simple, performant, and easy to reason about.
+## Selected work
 
-$ cat principles.md
+- **[SchoolParent.ai](https://schoolparent.ai/)** — Built the web application, API, background workflows, and deployment for a school-communications assistant.
+- **[Club Viágo](https://apps.apple.com/us/app/club-vi%C3%A1go/id6803511595)** — Built the React Native/Expo mobile app through store release, alongside web admin changes.
+- **[Flokte](https://apps.shopify.com/flokte-return-insights)** — Contributed across the Next.js application and Go backend for a Shopify return-insights product.
 
-- Simplicity beats cleverness
-- Performance matters early
-- Clear code > clever code
-- Ship, observe, refine
+My [portfolio](https://arham-murtaza.vercel.app/) explains my role and the public evidence for each project.
 
-$ cat work.log
+Some professional work is covered by NDAs. My public repositories also include earlier learning projects and experiments.
 
-• Full SaaS applications (frontend & backend)
-• Admin panels & internal dashboards
-• Chat systems & real-time features
-• Browser extensions
-• Automation & internal tooling
-
-$ cat now.md
-
-- Working full-time on production systems
-- Improving performance & developer experience
-- Learning selectively, not collecting tools
-
-$ ls tech/core
-
-nextjs   typescript   postgres   python
-
-$ ls tech/others
-
-react   tailwind   laravel   vue
-
-$ echo "Most real work is private. Public repos are for experiments, notes, and small tools."
-
-$ exit
-```
+[Portfolio](https://arham-murtaza.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/muhammad-arham-murtaza/) · [Email](mailto:arhammurtaza@proton.me)
